@@ -1,0 +1,29 @@
+.contain{
+/*max-width: 1200px;*/
+margin: auto;
+/*background: #f2f2f2;*/
+overflow: auto;
+position: absolute;
+height:120vh;
+padding: 50px;
+padding-bottom: 100px;
+
+
+	}
+
+	.game{
+		margin: 5px;
+		/*border: 1px solid #ccc;*/
+		float: left;
+		width: 390px;
+
+	}
+	.game img{
+		/*width: 60%;
+		height: auto;
+		align-items: center;*/
+		max-width: 500px;
+  height: 500px;
+  background-color: powderblue;
+
+	}

@@ -1,0 +1,9 @@
+.paragraph{
+	display: flex;
+/*background-color: rgb(255, 255, 0);*/
+width: 90%;
+height: 400vh;/* header up and down*/
+margin: auto;
+align-items: center;
+
+}
